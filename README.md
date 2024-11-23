@@ -16,30 +16,32 @@
 
 ## Antenna Configurations
 
-### **Dipole Antenna**
+### Dipole Antenna
 1. **Half-Wavelength Dipole:**  
-   - **Length**: \( l = \frac{\lambda_0}{2} \)  
-   - **Radius**: \( a = 0.02 \lambda_0 \)  
-   - **Center Frequency**: \( f_0 = 900 \, \mathrm{MHz} \)  
-   - **Characteristic Impedance**: \( 75 \, \Omega \)  
+   - **Length**: <code>l = λ<sub>0</sub> / 2</code>  
+   - **Radius**: <code>a = 0.02λ<sub>0</sub></code>  
+   - **Center Frequency**: <code>f<sub>0</sub> = 900 MHz</code>  
+   - **Characteristic Impedance**: <code>75 Ω</code>  
 
 2. **Full-Wavelength Dipole:**  
-   - **Length**: \( l = \lambda_0 \)  
-   - **Radius**: \( a = 0.02 \lambda_0 \)  
-   - **Center Frequency**: \( f_0 = 900 \, \mathrm{MHz} \)  
-   - **Characteristic Impedance**: \( 75 \, \Omega \)  
+   - **Length**: <code>l = λ<sub>0</sub></code>  
+   - **Radius**: <code>a = 0.02λ<sub>0</sub></code>  
+   - **Center Frequency**: <code>f<sub>0</sub> = 900 MHz</code>  
+   - **Characteristic Impedance**: <code>75 Ω</code>  
 
 3. **1.5-Wavelength Dipole:**  
-   - **Length**: \( l = \frac{3\lambda_0}{2} \)  
-   - **Radius**: \( a = 0.02 \lambda_0 \)  
-   - **Center Frequency**: \( f_0 = 900 \, \mathrm{MHz} \)  
-   - **Characteristic Impedance**: \( 75 \, \Omega \)  
+   - **Length**: <code>l = 3λ<sub>0</sub> / 2</code>  
+   - **Radius**: <code>a = 0.02λ<sub>0</sub></code>  
+   - **Center Frequency**: <code>f<sub>0</sub> = 900 MHz</code>  
+   - **Characteristic Impedance**: <code>75 Ω</code>  
 
 ---
 
-### **Monopole Antenna**
+### Monopole Antenna
 1. **Quarter-Wavelength Monopole:**  
-   - **Length**: \( l = \frac{\lambda_0}{4} \)  
-   - **Radius**: \( a = 0.02 \lambda_0 \)  
-   - **Center Frequency**: \( f_0 = 900 \, \mathrm{MHz} \)  
-   - **Characteristic Impedance**: \( 37.5 \, \Omega \)  
+   - **Length**: <code>l = λ<sub>0</sub> / 4</code>  
+   - **Radius**: <code>a = 0.02λ<sub>0</sub></code>  
+   - **Center Frequency**: <code>f<sub>0</sub> = 900 MHz</code>  
+   - **Characteristic Impedance**: <code>37.5 Ω</code>  
+
+---
