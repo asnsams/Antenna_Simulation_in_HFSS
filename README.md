@@ -1,5 +1,8 @@
 # Antenna Simulation in HFSS
 
+This repository contains a collection of antenna simulations completed as part of the course **ECE 421: Introduction to Antennas and Wireless Propagation**, as well as some additional personal antenna projects. The final entry in the table corresponds to the course **final project**, which is yet to be completed. Each simulation includes key configurations, results, and analysis for different types of antennas.
+
+
 ## TODO List
 
 | Antenna Type       | To-Do         | File Name             | Configuration                         |
