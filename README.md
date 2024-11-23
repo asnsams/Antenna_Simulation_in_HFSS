@@ -4,13 +4,15 @@
 
 | Antenna Type       | To-Do         | File Name             | Configuration                         |
 |--------------------|---------------|-----------------------|---------------------------------------|
-| Dipole Antenna     | [✔]           | `dipole_simulation.hfss` | Half-Wavelength, Full-Wavelength, 1.5-Wavelength |
-| Monopole Antenna   | [ ]           | `monopole_simulation.hfss` | Quarter-Wavelength                    |
-| Bowtie Antenna     | [ ]           | `bowtie_simulation.hfss`  | TBD                                   |
-| Horn Antenna       | [ ]           | `horn_simulation.hfss`    | TBD                                   |
-| Patch Antenna      | [ ]           | `patch_simulation.hfss`   | TBD                                   |
-| Vivaldi Antenna    | [ ]           | `vivaldi_simulation.hfss` | TBD                                   |
-| Yagi-Uda Antenna   | [ ]           | `yagi_uda_simulation.hfss`| TBD                                   |
+| Dipole Antenna     | [ ]           | `dipole_halfwave.hfss` | Half-Wavelength|
+| Dipole Antenna     | [ ]           | `dipole_fullwave.hfss` | full-Wavelength|
+| Dipole Antenna     | [ ]           | `dipole_1_5wave.hfss` | 1.5-Wavelength|
+| Monopole Antenna   | [ ]           | `monopole_simulation.hfss` | Qtr-Wavelength                    |
+| Bowtie Antenna     | [ ]           | `bowtie_simulation.hfss`  | -                                 |
+| Horn Antenna       | [ ]           | `horn_simulation.hfss`    | -                                   |
+| Patch Antenna      | [ ]           | `patch_simulation.hfss`   | -                                  |
+| Vivaldi Antenna    | [ ]           | `vivaldi_simulation.hfss` | -                                  |
+| Yagi-Uda Antenna   | [ ]           | `yagi_uda_simulation.hfss`| -                                  |
 
 ---
 
