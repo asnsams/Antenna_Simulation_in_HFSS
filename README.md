@@ -2,15 +2,15 @@
 
 ## TODO List
 
-| Antenna Type       | To-Do         | Remarks                                                              |
-|--------------------|---------------|----------------------------------------------------------------------|
-| Dipole Antenna     | [✔]           | Configurations: Half-Wavelength, Full-Wavelength, 1.5-Wavelength     |
-| Monopole Antenna   | [ ]           | Configuration: Quarter-Wavelength                                    |
-| Bowtie Antenna     | [ ]           |                                                                      |
-| Horn Antenna       | [ ]           |                                                                      |
-| Patch Antenna      | [ ]           |                                                                      |
-| Vivaldi Antenna    | [ ]           |                                                                      |
-| Yagi-Uda Antenna   | [ ]           |                                                                      |
+| Antenna Type       | To-Do         | File Name             | Configuration                         |
+|--------------------|---------------|-----------------------|---------------------------------------|
+| Dipole Antenna     | [✔]           | `dipole_simulation.hfss` | Half-Wavelength, Full-Wavelength, 1.5-Wavelength |
+| Monopole Antenna   | [ ]           | `monopole_simulation.hfss` | Quarter-Wavelength                    |
+| Bowtie Antenna     | [ ]           | `bowtie_simulation.hfss`  | TBD                                   |
+| Horn Antenna       | [ ]           | `horn_simulation.hfss`    | TBD                                   |
+| Patch Antenna      | [ ]           | `patch_simulation.hfss`   | TBD                                   |
+| Vivaldi Antenna    | [ ]           | `vivaldi_simulation.hfss` | TBD                                   |
+| Yagi-Uda Antenna   | [ ]           | `yagi_uda_simulation.hfss`| TBD                                   |
 
 ---
 
@@ -43,5 +43,3 @@
    - **Radius**: <code>a = 0.02λ<sub>0</sub></code>  
    - **Center Frequency**: <code>f<sub>0</sub> = 900 MHz</code>  
    - **Characteristic Impedance**: <code>37.5 Ω</code>  
-
----
