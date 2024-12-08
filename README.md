@@ -3,21 +3,73 @@
 This repository contains a collection of antenna simulations completed as part of the course **ECE 421: Introduction to Antennas and Wireless Propagation**, as well as some additional personal antenna projects. The final entry in the table corresponds to the course **final project**, which is yet to be completed. Each simulation includes key configurations, results, and analysis for different types of antennas.
 
 
-## TODO List
+<h2>TODO List</h2>
 
-| Antenna Type       | To-Do         | File Name             | Configuration                         |
-|--------------------|---------------|-----------------------|---------------------------------------|
-| Dipole Antenna     | [ ]           | `dipole_halfwave.hfss` | Half-Wavelength|
-| Dipole Antenna     | [ ]           | `dipole_fullwave.hfss` | full-Wavelength|
-| Dipole Antenna     | [ ]           | `dipole_1_5wave.hfss` | 1.5-Wavelength|
-| Monopole Antenna   | [ ]           | `monopole_simulation.hfss` | Qtr-Wavelength                    |
-| Bowtie Antenna     | [ ]           | `bowtie_simulation.hfss`  | -                                 |
-| Horn Antenna       | [ ]           | `horn_simulation.hfss`    | -                                   |
-| Patch Antenna      | [ ]           | `patch_simulation.hfss`   | -                                  |
-| Vivaldi Antenna    | [ ]           | `vivaldi_simulation.hfss` | -                                  |
-| Yagi-Uda Antenna   | [ ]           | `yagi_uda_simulation.hfss`| -                                  |
+<h3>Mid-Stage Simulations:</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Antenna Type</th>
+      <th>To-Do</th>
+      <th>File Name</th>
+      <th>Configuration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dipole Antenna</td>
+      <td>[ ]</td>
+      <td><code>dipole_halfwave.hfss</code></td>
+      <td>Half-Wavelength</td>
+    </tr>
+    <tr>
+      <td>Dipole Antenna</td>
+      <td>[ ]</td>
+      <td><code>dipole_fullwave.hfss</code></td>
+      <td>Full-Wavelength</td>
+    </tr>
+    <tr>
+      <td>Dipole Antenna</td>
+      <td>[ ]</td>
+      <td><code>dipole_1_5wave.hfss</code></td>
+      <td>1.5-Wavelength</td>
+    </tr>
+    <tr>
+      <td>Monopole Antenna</td>
+      <td>[ ]</td>
+      <td><code>monopole_simulation.hfss</code></td>
+      <td>Quarter-Wavelength</td>
+    </tr>
+    <tr>
+      <td>Yagi-Uda Antenna</td>
+      <td>[ ]</td>
+      <td><code>yagi_uda_simulation.hfss</code></td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
----
+<h3>Final Simulations:</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Antenna Type</th>
+      <th>To-Do</th>
+      <th>File Name</th>
+      <th>Configuration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Multi-band Quasi-Yagi Antenna</td>
+      <td>[ ]</td>
+      <td><code>quasi_yagi_mb_simulation.hfss</code></td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+----
 
 ## Antenna Configurations
 
