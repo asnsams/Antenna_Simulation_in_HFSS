@@ -5,7 +5,7 @@ This repository contains a collection of antenna simulations completed as part o
 
 <h2>TODO List</h2>
 
-<h3>Mid-Stage Simulations:</h3>
+<h3>Mid-term Project:</h3>
 <table>
   <thead>
     <tr>
@@ -49,7 +49,7 @@ This repository contains a collection of antenna simulations completed as part o
   </tbody>
 </table>
 
-<h3>Final Simulations:</h3>
+<h3>Final Project:</h3>
 <table>
   <thead>
     <tr>
